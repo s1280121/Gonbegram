@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633330068106",
+    "project_id": "gonbegram",
+    "storage_bucket": "gonbegram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633330068106:android:be7616d0ee63358c671b73",
+        "android_client_info": {
+          "package_name": "com.example.gonbegram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633330068106-s4u9ar86mst75dkopsoblpr20858hl8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1_FWgQGeUE4FMegw4OU7XlRxF5vUQy74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633330068106-s4u9ar86mst75dkopsoblpr20858hl8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
